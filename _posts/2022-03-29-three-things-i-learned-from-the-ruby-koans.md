@@ -5,4 +5,8 @@ title: Three things I learned from The Ruby Koans
 
 Here are (at least) three things I learned from [The Ruby Koans](http://rubykoans.com/):
 
+**some bold markdown!**
 
+- first thing I learned
+- second thing I leaned
+- etc
